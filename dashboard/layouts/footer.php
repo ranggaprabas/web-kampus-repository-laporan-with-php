@@ -1,7 +1,7 @@
 <!-- ======= Footer ======= -->
 <footer id="footer" class="footer">
     <div class="copyright">
-      Copyright &copy; UNSIKA 2022.
+      Copyright &copy; ELEKTRO 2023.
     </div>
     <div class="credits">
       <!-- All the links in the footer should remain intact. -->
